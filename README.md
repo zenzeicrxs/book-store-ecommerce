@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 WEBSITE BOOK STORE ECOMMERCE USING DJANGO PYTHON
 
 MUHAMMAD SYARIF 220907501041 <br>
@@ -14,3 +15,6 @@ admin : zenzei  pass : zenzei
 ![Screenshot 2024-11-24 141217](https://github.com/user-attachments/assets/d1049564-54d5-4fd3-bb91-fc64756fcfb8)
 ![Screenshot 2024-11-24 141143](https://github.com/user-attachments/assets/c0034719-20ce-4a8f-b384-788d7398e3a7)
 ![Screenshot 2024-11-24 141045](https://github.com/user-attachments/assets/a617dfe8-7070-4287-b0fe-1343b3a24a0c)
+=======
+# book-store-ecommerce
+>>>>>>> e8dd45130ec4e31e6dec994985774e44b743b740
